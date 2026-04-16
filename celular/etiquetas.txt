@@ -209,7 +209,7 @@ celular_208.jpg, 1, 2
 celular_209.jpg, 1, 2
 celular_210.jpg, 1, 3
 celular_211.jpg, 1, 3
-celular_212.jpg, 1, 3
+celular_212.jpg, 0, 1
 celular_213.jpg, 1, 3
 celular_214.jpg, 1, 2
 celular_215.jpg, 1, 2
