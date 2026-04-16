@@ -7,7 +7,7 @@ esp_006.jpg, 1, 2
 esp_007.jpg, 1, 2
 esp_008.jpg, 1, 2
 esp_009.jpg, 1, 2
-esp_010.jpg, 1, 1
+esp_010.jpg, 0, 1
 esp_011.jpg, 1, 1
 esp_012.jpg, 1, 1
 esp_013.jpg, 1, 2
